@@ -1,15 +1,15 @@
 {
   "name": "authentication-and-authorization",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A project to understand development of authentication logic using JWT tokens.",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "auth": "nodemon auth-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dhanish",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
